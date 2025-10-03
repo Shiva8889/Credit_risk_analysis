@@ -12,8 +12,6 @@ Primary Dataset:
 
 banking.csv: The fundamental dataset supporting all analyses and visualizations.
 
-Snapshot PDF:
-
 Risk Analysis.pdf: A concise, 5-page static report for quick review and sharing.
 
 Exploratory Notebooks:
